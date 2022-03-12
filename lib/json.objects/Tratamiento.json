@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "622cf11b37b97547d70ee35f"
+  },
+  "Nombre ": "fisioterapia",
+  "Fecha ": " 30/10/2022 ",
+  "hora": "7am",
+  "Medico ": "Lucia Obando "
+},{
+  "_id": {
+    "$oid": "622cf11b37b97547d70ee360"
+  },
+  "Nombre ": "Quimioterapias",
+  "Fecha ": " 3/10/2022 ",
+  "hora": "2pm",
+  "Medico ": "pepito perez "
+},{
+  "_id": {
+    "$oid": "622cf11b37b97547d70ee361"
+  },
+  "Nombre ": "Infiltraciones ",
+  "Fecha ": " 12/10/2022 ",
+  "hora": "10am",
+  "Medico ": "Gilberto Rodriguez "
+}]

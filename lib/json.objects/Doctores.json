@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "622ce7b437b97547d70ee337"
+  },
+  "Nombre": "Gabriel",
+  "Apellido": "Calderon",
+  "codigo": "123",
+  "Genero": "masculino",
+  "Especialidad": "medico general"
+},{
+  "_id": {
+    "$oid": "622ce7b437b97547d70ee338"
+  },
+  "Nombre": "Sandra",
+  "Apellido": "Bastidas",
+  "codigo": "456",
+  "Genero": "femenino",
+  "Especialidad": "terapeuta"
+},{
+  "_id": {
+    "$oid": "622ce7b437b97547d70ee339"
+  },
+  "Nombre": "luiz",
+  "Apellido": "Rojas",
+  "codigo": "789",
+  "Genero": "masculino",
+  "Especialidad": "Psicologo"
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "622cef0d37b97547d70ee359"
+  },
+  "valor a apagar ": "$10.000",
+  "fecha ": " 13/10/2022 ",
+  "servicio ": "medicina general "
+},{
+  "_id": {
+    "$oid": "622cef0d37b97547d70ee35a"
+  },
+  "valor a apagar ": "$15.000",
+  "fecha ": " 21/10/2022 ",
+  "servicio ": "Laboratorio "
+},{
+  "_id": {
+    "$oid": "622cef0d37b97547d70ee35b"
+  },
+  "valor a apagar ": "$12.000",
+  "fecha ": " 19/10/2022 ",
+  "servicio ": "Psicologia "
+}]

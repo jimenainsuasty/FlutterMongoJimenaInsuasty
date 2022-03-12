@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "622cea0b37b97547d70ee33d"
+  },
+  "servicio": "laboratorio",
+  "horario": "6am - 10am",
+  "pre-requisitos": "estar en ayunas",
+  "valor": "$10.000"
+},{
+  "_id": {
+    "$oid": "622cea0b37b97547d70ee33e"
+  },
+  "servicio": "Medicina general",
+  "horario": "8am - 12am Y 2pm - 4pm",
+  "pre-requisitos": "Historia clinica ",
+  "valor": "$30.000"
+},{
+  "_id": {
+    "$oid": "622cea0b37b97547d70ee33f"
+  },
+  "servicio": "fisioterapia",
+  "horario": "8am - 12am Y 2pm - 4pm",
+  "pre-requisitos": "orden medica ",
+  "valor": "$20.000"
+}]

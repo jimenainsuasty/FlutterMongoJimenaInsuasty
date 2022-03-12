@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "622cee3e37b97547d70ee34b"
+  },
+  "hora ": "8 am",
+  "fecha ": " 23/10/2022 ",
+  "servicio ": "medicina general ",
+  "Nombre del medico": "Gabriel  calderon",
+  "valor consualta": "$ 50.000"
+},{
+  "_id": {
+    "$oid": "622cee3e37b97547d70ee34c"
+  },
+  "hora ": "7 am",
+  "fecha ": " 20/10/2022 ",
+  "servicio ": "laboratorio ",
+  "Nombre del medico": "Sandra Apraez",
+  "valor consualta": "$ 30.000"
+},{
+  "_id": {
+    "$oid": "622cee3e37b97547d70ee34d"
+  },
+  "hora ": "3pm",
+  "fecha ": " 3/10/2022 ",
+  "servicio ": "psicologia ",
+  "Nombre del medico": "Ana Torres",
+  "valor consualta": "$ 40.000"
+}]
