@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "622cec6337b97547d70ee345"
+  },
+  "Nombre": "acetaminofen",
+  "Ingerir ": " 1 pastilla cada 8 horas ",
+  "cantidad ": "2 tabletas de 20 pastillas ",
+  "valor": "$5.000"
+},{
+  "_id": {
+    "$oid": "622cec6337b97547d70ee346"
+  },
+  "Nombre": "Dolex",
+  "Ingerir ": " 1 pastilla cada 12 horas ",
+  "cantidad ": "5 tabletas de 20 pastillas ",
+  "valor": "$10.000"
+},{
+  "_id": {
+    "$oid": "622cec6337b97547d70ee347"
+  },
+  "Nombre": "calcio",
+  "Ingerir ": " 1 cucharada diaria despues de los alimentos ",
+  "cantidad ": "1 tarro de 50ml  ",
+  "valor": "$50.000"
+}]
